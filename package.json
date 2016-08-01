@@ -1,0 +1,30 @@
+{
+  "name": "bootstrap-no-fonts-no-js",
+  "description": "[Bootstrap](http://getbootstrap.com/) Bootstrap without js and font files",
+  "version": "3.3.7",
+  "author": "Twitter, Inc.",
+  "bugs": {
+    "url": "https://github.com/fyockm/bootstrap-css-only/issues"
+  },
+  "files": [
+    "css",
+    "LICENSE"
+  ],
+  "homepage": "http://getbootstrap.com",
+  "keywords": [
+    "twitter",
+    "twitter-bootstrap",
+    "twitter-bootstrap-css-only",
+    "twitter-bootstrap-without-fonts",
+    "twitter-bootstrap-without-js",
+    "css"
+  ],
+  "license": "MIT",
+  "main": "css/bootstrap.min.css",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:sarike/bootstrap-no-fonts-no-js.git"
+  },
+  "style": "css/bootstrap.css"
+}
+
